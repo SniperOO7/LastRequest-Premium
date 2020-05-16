@@ -17,7 +17,7 @@
     - Knife fight duel
     - Freeday in last request
     - Choose day for next round (for VIP)
-    - + 500 credits (myjailshop)
+    - +500 credits (myjailshop)
     - Restricted weapons for only weapons in duel
     - Terrorist can't kill CT outside of duel
     - Determined time to choose last request (with freeday when player not choose last request)
