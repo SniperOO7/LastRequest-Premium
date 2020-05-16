@@ -26,6 +26,7 @@
     - Terrorist can't kill CT until he choose last request
     - Players will get glow effect in duel
     - Player can't have last request when is day active
+    - Hint messages 
 
 * **Photo from full version:**
     - https://ctrlv.cz/sm20
