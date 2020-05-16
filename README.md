@@ -27,6 +27,7 @@
     - Players will get glow effect in duel
     - Player can't have last request when is day active
     - Hint messages 
+    - Cfg file with options
 
 * **Photo from full version:**
     - https://ctrlv.cz/sm20
